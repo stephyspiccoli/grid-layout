@@ -26,3 +26,11 @@ body {
   display: block;
   width: 100%;
 }
+
+.grid {
+  overflow: hidden;
+}
+
+.unit {
+  float: left;
+}
